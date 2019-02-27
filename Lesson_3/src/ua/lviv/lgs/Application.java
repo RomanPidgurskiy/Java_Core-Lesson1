@@ -16,12 +16,12 @@ System.out.println(a2);
     double result_area;
     diametr.setAre(10);
     result_area = diametr.getAre();
-    System.out.println("Площа кола = "+result_area);
+    System.out.println("Circle Square = "+result_area);
     
     double result_length;
     diametr.setLength(10);
     result_length = diametr.getLength();
-    System.out.println("Довжина кола = "+result_length);
+    System.out.println("Circle length = "+result_length);
 	
 	}
 }
