@@ -17,8 +17,8 @@ public class Rectangle {
 	}
 	
 	public String toString() {
-		return "Площа прямокутника = " +(width*length) + 
-				"  Периметр прямокутника = " + (length*2+width*2);
+		return "Square rectangle = " +(width*length) + 
+				"  Perimeter of the rectangle = " + (length*2+width*2);
 	}
 	
 
